@@ -411,6 +411,7 @@ require = function() {
                 switch (_a.label) {
                  case 0:
                   this.facade.registerModule(new game.layer.LayerModule());
+                  this.facade.registerModule(new game.loading.LoadingModule());
                   this.facade.registerModule(new game.circleStart.CircleStartModule());
                   this.facade.registerModule(new game.circleGame.CircleGameModule());
                   progress = note.body.progress;
