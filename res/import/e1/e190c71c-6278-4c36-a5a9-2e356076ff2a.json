@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红色 中环",
+    "texture": "1a6i7siVJIX7OuBMeEqoiw",
+    "rect": [
+      20,
+      19,
+      92,
+      92
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      130,
+      130
+    ]
+  }
+}
